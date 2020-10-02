@@ -1,3 +1,13 @@
+/*
+
+sample input
+1
+6 6
+0 1 1 0 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+sample output
+5
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 #define M 100
