@@ -32,9 +32,10 @@
 * [Q6Floydd](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/Q6Floydd.cpp)
 * [UNION, INTERSECTION,sum and RING of 2 graphs](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/UNION%2C%20INTERSECTION%2Csum%20and%20RING%20of%202%20graphs.cpp)
 * [bellmanFord](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/bellmanFord.cpp)
-*[quadaraticfit](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/quadaraticfit.m)
+* [quadaraticfit](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/quadaraticfit.m)
 * [vertices, edges, even vertices, and odd vertices of graph](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/vertices%2C%20edges%2C%20even%20vertices%2C%20and%20odd%20vertices%20of%20graph.cpp)
 * [Topological Sort](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/TOPOLOGICAL%20SORT.cpp)
+* [Clone of Undirected graph](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/Clone_an%20_undirected_graph.cpp)
 
 
 
