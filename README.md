@@ -39,6 +39,7 @@
 * [Depth First Search](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/DepthFirstSearch.cpp)
 * [Bipartite graph matching](https://github.com/princekalra/Graph-Theory-Algorithms/blob/master/bipartite_graph_matching.cpp)
 * [DijkstraAlgorithm](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/63c18fc9d4a563b3b7209047dd6e27c6d8c8354a/DjikstraAlgorithm.cpp)
+* [Finding Connected Components In An Undirected Graph](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/63c18fc9d4a563b3b7209047dd6e27c6d8c8354a/DjikstraAlgorithm.cpp)
 
 
 
