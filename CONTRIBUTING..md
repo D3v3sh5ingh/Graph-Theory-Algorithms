@@ -5,6 +5,13 @@ email, or any other method with the owners of this repository before making a ch
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
+### Steps of contributing code:
+
+- Make sure your code is well formatted and properly indented.
+- Use standard naming conventions like camelCase for functions and PascalCase for Classes.
+- Explain the changes you have made using Sample input-output wherever possible.
+- Please contribute original code and avoid plagiarism.
+
 ### Our Standards
 
 Examples of behavior that contributes to creating a positive environment
