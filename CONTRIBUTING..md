@@ -8,6 +8,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 ### Steps of contributing code:
 
 - Make sure your code is well formatted and properly indented.
+- Make sure you update table of content with the newly added code.
 - Use standard naming conventions like camelCase for functions and PascalCase for Classes.
 - Explain the changes you have made using Sample input-output wherever possible.
 - Please contribute original code and avoid plagiarism.
