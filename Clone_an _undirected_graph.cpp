@@ -114,3 +114,34 @@ int main()
 	bfs(newsrc); 
 	return 0; 
 } 
+
+
+/* 
+        Input:
+        Note : All the edges are Undirected 
+        Given Graph: 
+        1--2 
+        | | 
+        4--3 
+    */
+/*  Output:
+BFS Traversal before cloning
+Value of Node 1
+Address of Node 0x24ccc20
+Value of Node 2
+Address of Node 0x24ccc50
+Value of Node 4
+Address of Node 0x24cccb0
+Value of Node 3
+Address of Node 0x24ccc80
+
+BFS Traversal after cloning
+Value of Node 1
+Address of Node 0x24cd030
+Value of Node 2
+Address of Node 0x24cd0e0
+Value of Node 4
+Address of Node 0x24cd170
+Value of Node 3
+Address of Node 0x24cd200
+*/
