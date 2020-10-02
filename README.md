@@ -13,10 +13,10 @@
   <p align="center">
     Repository for various Graph Theory Algorithms
     <br />
-    <a href="https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms"><strong>View the Repo</strong></a>
+    <a href="https://gihttps://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/CONTRIBUTING..mdthub.com/D3v3sh5ingh/Graph-Theory-Algorithms"><strong>View the Repo</strong></a>
     <br />
     <br />
-    <a href="http://opensource.guide/how-to-contribute/">How to Contribute</a>
+    <a href="https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/CONTRIBUTING..md/">How to Contribute</a>
     ·
     <a href="https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/issues">Contribute</a>
     ·
