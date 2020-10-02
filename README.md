@@ -13,10 +13,10 @@
   <p align="center">
     Repository for various Graph Theory Algorithms
     <br />
-    <a href="https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms"><strong>View the Repo</strong></a>
+    <a href="https://gihttps://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/CONTRIBUTING..mdthub.com/D3v3sh5ingh/Graph-Theory-Algorithms"><strong>View the Repo</strong></a>
     <br />
     <br />
-    <a href="http://opensource.guide/how-to-contribute/">How to Contribute</a>
+    <a href="https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/CONTRIBUTING..md/">How to Contribute</a>
     ·
     <a href="https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/issues">Contribute</a>
     ·
@@ -37,7 +37,8 @@
 * [Topological Sort](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/TOPOLOGICAL%20SORT.cpp)
 * [Clone of Undirected graph](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/Clone_an%20_undirected_graph.cpp)
 * [Depth First Search](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/Depth First Search.cpp)
-
+* [Bipartite graph matching](https://github.com/princekalra/Graph-Theory-Algorithms/blob/master/bipartite_graph_matching.cpp)
+* [DjikstraAlgorithm](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/63c18fc9d4a563b3b7209047dd6e27c6d8c8354a/DjikstraAlgorithm.cpp)
 
 
 
