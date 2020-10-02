@@ -38,7 +38,7 @@
 * [Clone of Undirected graph](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/Clone_an%20_undirected_graph.cpp)
 * [Depth First Search](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/master/Depth First Search.cpp)
 * [Bipartite graph matching](https://github.com/princekalra/Graph-Theory-Algorithms/blob/master/bipartite_graph_matching.cpp)
-* [DjikstraAlgorithm](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/63c18fc9d4a563b3b7209047dd6e27c6d8c8354a/DjikstraAlgorithm.cpp)
+* [DijkstraAlgorithm](https://github.com/D3v3sh5ingh/Graph-Theory-Algorithms/blob/63c18fc9d4a563b3b7209047dd6e27c6d8c8354a/DjikstraAlgorithm.cpp)
 
 
 
